@@ -18,5 +18,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## 📫 Contacto
-📧 [mgirazoqui@gmail.com](mailto:mgirazoqui@gmail.com)  
-💼 [LinkedIn](www.linkedin.com/in/marcos-irazoqui-807059283)  
+[![Email](https://cdn-icons-png.flaticon.com/512/732/732200.png)](mailto:mgirazoqui@gmail.com)
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/marcos-irazoqui-807059283)
+
+
