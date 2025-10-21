@@ -16,8 +16,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Handlebars](https://img.shields.io/badge/Handlebars-%7B%7D-F0772B?style=for-the-badge&logoColor=white)
-![HTMX](https://img.shields.io/badge/HTMX-FF6600?style=for-the-badge&logoColor=white)
 
 ## 📫 Contacto
 📧 [mgirazoqui@gmail.com](mailto:mgirazoqui@gmail.com)  
