@@ -1,7 +1,7 @@
 # 👋 Hola, soy Marcos Irazoqui
 
 🎯 **Técnico Superior en Desarrollo de Software**  
-📍 Argentina | 26 años  
+📍 Argentina | 27 años  
 
 ## 🧰 Tecnologías
 
